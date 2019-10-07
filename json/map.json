@@ -1,0 +1,1112 @@
+[
+	{
+		"floorNumber": 0,
+		"sceneNumber": 1,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 6,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 11,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 2,
+				"pictureNumber": 4
+			}
+		]
+	},
+	{
+		"floorNumber": 0,
+		"sceneNumber": 2,
+		"pictures": [
+			{
+				"stairs": true,
+				"floorNumber": 1,
+				"sceneNumber": 1,
+				"pictureNumber": 4
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 1,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 3,
+				"pictureNumber": 3
+			}
+		]
+	},
+	{
+		"floorNumber": 0,
+		"sceneNumber": 3,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 2,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 4,
+				"pictureNumber": 4
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 0,
+		"sceneNumber": 4,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 3,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 5,
+				"pictureNumber": 4
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 0,
+		"sceneNumber": 5,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 4,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": true,
+				"floorNumber": 1,
+				"sceneNumber": 4,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 0,
+		"sceneNumber": 6,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 8,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 7,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 1,
+				"pictureNumber": 3
+			}
+		]
+	},
+	{
+		"floorNumber": 0,
+		"sceneNumber": 7,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 6,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 0,
+		"sceneNumber": 8,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 9,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 6,
+				"pictureNumber": 4
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 0,
+		"sceneNumber": 9,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 10,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 8,
+				"pictureNumber": 3
+			},			
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 17,
+				"pictureNumber": 3
+			}
+		]
+	},
+	{
+		"floorNumber": 0,
+		"sceneNumber": 10,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 9,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 0,
+		"sceneNumber": 11,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 1,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 1,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 2,
+				"pictureNumber": 4
+			},
+			{
+				"stairs": true,
+				"floorNumber": 2,
+				"sceneNumber": 4,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 12,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 2,
+				"pictureNumber": 3
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 2,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 1,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 3,
+				"pictureNumber": 4
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 3,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 2,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 4,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 4,
+		"pictures": [
+			{
+				"stairs": true,
+				"floorNumber": 2,
+				"sceneNumber": 1,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 5,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 5,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 3,
+				"pictureNumber": 1
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 5,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 4,
+				"pictureNumber": 4
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 6,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 9,
+				"pictureNumber": 1
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 6,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 7,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 5,
+				"pictureNumber": 4
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 7,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 8,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 6,
+				"pictureNumber": 4
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 8,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 7,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 9,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 5,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 10,
+				"pictureNumber": 2
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 10,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 11,
+				"pictureNumber": 4
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 9,
+				"pictureNumber": 2
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 11,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": true,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 12,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 15,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 13,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 1,
+				"pictureNumber": 1
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 13,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 12,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 14,
+				"pictureNumber": 4
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 14,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 13,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 15,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 16,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 12,
+				"pictureNumber": 3
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 16,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 17,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 15,
+				"pictureNumber": 4
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 17,
+		"pictures": [
+			{
+				"stairs": true,
+				"floorNumber": 2,
+				"sceneNumber": 1,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 18,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": 0,
+				"sceneNumber": 9,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 16,
+				"pictureNumber": 4
+			}
+		]
+	},
+	{
+		"floorNumber": 1,
+		"sceneNumber": 18,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 17,
+				"pictureNumber": 4
+			}
+		]
+	},
+	{
+		"floorNumber": 2,
+		"sceneNumber": 1,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": true,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 2,
+				"pictureNumber": 4
+			}
+		]
+	},
+	{
+		"floorNumber": 2,
+		"sceneNumber": 2,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 1,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 3,
+				"pictureNumber": 4
+			}
+		]
+	},
+	{
+		"floorNumber": 2,
+		"sceneNumber": 3,
+		"pictures": [
+			{
+				"stairs": true,
+				"floorNumber": 3,
+				"sceneNumber": 2,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 2,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 1,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 2,
+		"sceneNumber": 4,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 11,
+				"pictureNumber": 4
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": true,
+				"floorNumber": 3,
+				"sceneNumber": 9,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 5,
+				"pictureNumber": 4
+			}
+		]
+	},
+	{
+		"floorNumber": 2,
+		"sceneNumber": 5,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 4,
+				"pictureNumber": 1
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 6,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			}
+		]
+	},
+	{
+		"floorNumber": 2,
+		"sceneNumber": 6,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 7,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 5,
+				"pictureNumber": 1
+			}
+		]
+	},
+	{
+		"floorNumber": 2,
+		"sceneNumber": 7,
+		"pictures": [
+			{
+				"stairs": true,
+				"floorNumber": 3,
+				"sceneNumber": 6,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 8,
+				"pictureNumber": 2
+			},
+			{
+				"stairs": false,
+				"floorNumber": 1,
+				"sceneNumber": 16,
+				"pictureNumber": 3
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 6,
+				"pictureNumber": 4
+			}
+		]
+	},
+	{
+		"floorNumber": 2,
+		"sceneNumber": 8,
+		"pictures": [
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": null,
+				"sceneNumber": null,
+				"pictureNumber": null
+			},
+			{
+				"stairs": false,
+				"floorNumber": 2,
+				"sceneNumber": 7,
+				"pictureNumber": 4
+			}
+		]
+	}
+]
