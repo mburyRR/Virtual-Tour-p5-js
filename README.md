@@ -4,7 +4,7 @@ Master's project of an application built on the basis of the p5.js library, whic
 
 **Demo**
 
----
+https://mburyrr.github.io/Virtual-Tour-p5-js/
 
 **Running App**
 
